@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ejb-jar" name="coba-kalkulator:ejb">
+    <output-path>$PROJECT_DIR$/out/artifacts/coba_kalkulator_ejb</output-path>
+    <root id="archive" name="coba-kalkulator_ejb.jar">
+      <element id="artifact" artifact-name="coba-kalkulator:ejb exploded" />
+    </root>
+  </artifact>
+</component>

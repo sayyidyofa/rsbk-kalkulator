@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="ear" name="coba-kalkulator:ear">
+    <output-path>$PROJECT_DIR$/out/artifacts/coba_kalkulator_ear</output-path>
+    <root id="archive" name="coba-kalkulator_ear.ear">
+      <element id="artifact" artifact-name="coba-kalkulator:ear exploded" />
+    </root>
+  </artifact>
+</component>

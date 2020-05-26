@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-ejb" name="coba-kalkulator:ejb exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/coba_kalkulator_ejb_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="coba-kalkulator/ejb/EJB" />
+      <element id="module-output" name="coba-kalkulator" />
+    </root>
+  </artifact>
+</component>

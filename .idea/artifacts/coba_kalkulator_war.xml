@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="coba-kalkulator:war">
+    <output-path>$PROJECT_DIR$/out/artifacts/coba_kalkulator_war</output-path>
+    <root id="archive" name="coba-kalkulator_war.war">
+      <element id="artifact" artifact-name="coba-kalkulator:war exploded" />
+    </root>
+  </artifact>
+</component>
